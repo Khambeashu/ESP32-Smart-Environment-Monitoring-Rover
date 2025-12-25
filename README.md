@@ -69,6 +69,22 @@ It demonstrates hands-on skills in **Embedded Systems**, **IoT**, **WiFi network
 - Academic mini/major projects  
 
 ---
+## About Me
+Hi! I’m **Ashwini Khambe**, a passionate **Electronics & Telecommunication Engineer** with a strong interest in **Embedded Systems**, **IoT**, and **Robotics**. I enjoy building practical projects that combine **hardware and software** to solve real-world problems.  
+
+I am actively learning and applying skills in:
+- **Microcontrollers & Embedded Programming** (ESP32, Arduino, C/C++)
+- **Wireless Communication & IoT Protocols** (BLE, MQTT)
+- **Sensors & Actuators Integration** (Motors, DHT, GPS)
+- **Software Debugging & Optimization**
+
+My goal is to secure a position as an **Embedded Software Engineer** or **IoT Developer**, where I can contribute to innovative projects while continuously learning new technologies.  
+
+This project is part of my professional portfolio, demonstrating:
+- Real-time BLE communication for motor control
+- Practical embedded software development
+- Ability to integrate hardware and software in an IoT environment
+
 
 ## Author
 **Ashwini Khambe**  
